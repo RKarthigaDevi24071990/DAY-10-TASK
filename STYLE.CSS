@@ -1,0 +1,12 @@
+body{
+    background-color: grey;
+    color: black;
+}
+span{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 3em;
+    font-weight: bolder;
+    margin: 250px auto;
+ };
